@@ -1,5 +1,4 @@
-# Awesome Inc. website Docs
-Welcome to our site, please follow the next information in order to have a working website.
+# Go-Hugo
 
 ## Prerequisites
 - Hugo v0.80+ must be used.
