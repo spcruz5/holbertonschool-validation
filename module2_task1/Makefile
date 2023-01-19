@@ -11,7 +11,7 @@ run: ## Run the application in background
 	@./awesome-api >./awesome.log 2>&1 &
 
 stop: ## Stop the application with the command kill
-	@pkill awesome-api
+	pkill awesome-api
 
 clean: stop ## Cleanup the content of the 'dist/' folder
 	@rm -Rf dist/*
